@@ -18,11 +18,17 @@ The system mainly focuses on three core entities:
 Using REST APIs, the app allows users to:
 
 ✅ Add new students
+
 ✅ Create and manage courses
+
 ✅ Enroll students into courses
+
 ✅ Update student/course details
+
 ✅ Delete records when needed
+
 ✅ Retrieve enrollment information dynamically
+
 
 The backend uses a local SQLite database to store all information persistently.
 
